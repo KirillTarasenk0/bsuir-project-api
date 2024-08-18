@@ -1,0 +1,11 @@
+{
+    "name": "Universities",
+    "alias": "universities",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Universities\\App\\Providers\\UniversitiesServiceProvider"
+    ],
+    "files": []
+}

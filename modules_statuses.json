@@ -1,0 +1,8 @@
+{
+    "Universities": true,
+    "Test": true,
+    "Reviews": true,
+    "Subjects": true,
+    "Advertisements": true,
+    "UserProfile": true
+}
